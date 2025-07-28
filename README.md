@@ -52,4 +52,4 @@ This project involves designing and implementing a segmented network consisting 
 ---
 
 > For full configuration details, commands, diagrams, and test results, please refer to the complete project report here:  
-> 📄 [Full Network Configuration Project Report](#)  
+> 📄 [Full Network Configuration Project Report](https://github.com/pavithrancj/Secure-Network-using-Cisco-Packet-Tracer/blob/main/Network%20Configuration.pdf)  
